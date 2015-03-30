@@ -1,0 +1,5 @@
+E:\算法\ELSE\Coursera_Exercises\Algorithms, Part I\Week 1 Union-Find\week1\week1\bin\Debug\week1.exe
+E:\算法\ELSE\Coursera_Exercises\Algorithms, Part I\Week 1 Union-Find\week1\week1\bin\Debug\week1.pdb
+E:\算法\ELSE\Coursera_Exercises\Algorithms, Part I\Week 1 Union-Find\week1\week1\obj\Debug\week1.csprojResolveAssemblyReference.cache
+E:\算法\ELSE\Coursera_Exercises\Algorithms, Part I\Week 1 Union-Find\week1\week1\obj\Debug\week1.exe
+E:\算法\ELSE\Coursera_Exercises\Algorithms, Part I\Week 1 Union-Find\week1\week1\obj\Debug\week1.pdb
